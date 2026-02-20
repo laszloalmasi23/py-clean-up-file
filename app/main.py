@@ -16,3 +16,4 @@ class CleanUpFile:
                 pass
 
         return None
+
